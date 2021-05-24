@@ -1,3 +1,3 @@
-# dog_cat_classification
+# supervised learning
 
 2 class
