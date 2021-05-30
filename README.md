@@ -1,4 +1,4 @@
-# iris classification
+# dog cat classification
 
 a keras implementation of simple cnn model based 2 classes(dog, cat) classification on supervised learning.
 
@@ -34,12 +34,26 @@ test dataset contains 12500 images in 2 different classes(dog, cat).
 
 25000 images, 2 classes(dog, cat)
 
+data augmentation - rescale, width shift, height shift, horizontal flip
+
 ### test
 
 dog - 6303 images
 
 cat - 6197 images
 
+data augmentation - rescale
+
 ## Usage
 
-iris.py
+### data preprocessing
+
+dog_cat_preprocessing.py
+
+### train
+
+dog_cat.py
+
+### test
+
+dog_cat_test.py
