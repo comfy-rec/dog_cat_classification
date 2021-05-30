@@ -44,7 +44,7 @@ cat - 6197 images
 
 data augmentation - rescale
 
-## Usage
+## usage
 
 ### data preprocessing
 
